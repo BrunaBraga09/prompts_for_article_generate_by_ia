@@ -2,7 +2,7 @@
 > ℹ️ **NOTE:** Desenvolvimento de Sistemas de Recomendação Personalizados com IA
 
 <p align="center">
-    <img width="500" src="https://github.com/BrunaBraga09/prompts-recipe-to-create-a-ebook/assets/113847834/97267e32-c04f-4191-9c24-0235565bf770">
+    <img width="500" src="img/LOGO.JPG">
 </p>
 
 <a href="https://web.dio.me/articles/desenvolvimento-de-sistemas-de-recomendacao-personalizados-com-ia?back=%2Farticles&page=1&order=oldest"> 📕Clique aqui para ler</a>
